@@ -168,7 +168,7 @@ docker run -d -p 80:80 --name site01 <URI_DO_ECR>/site-prod:1.0
 
 ---
 
-## 📚 Referência
+## Referência
 
 Repositório base utilizado:
 
@@ -176,6 +176,6 @@ Repositório base utilizado:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por Hugo Nogueira.
