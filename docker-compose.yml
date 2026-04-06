@@ -1,0 +1,8 @@
+services:
+  web:
+    build: .
+    image: nginx_static_site:1.0
+    container_name: site01
+    ports:
+      - "8080:80"
+    restart: always
